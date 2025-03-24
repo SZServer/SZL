@@ -1,2 +1,2 @@
-Launcher-0.0.1-https://spacezone.su/check1 === 7858345
-Horror-0.0.1-https://download1478.mediafire.com/acdebl6u8pwgDAseXg5gKDPp2LYFubsa6Wt1mOQ4F0-HCq1XvAQFteVHwftX5iMiytyhrEUy0XNMf5VTsWSbGGt2k2MFnq4r1eChAuFzlwhGecueFLjC7vmt0Ofl0Zah6F0bH7rmVZSYPLjjH0NoOl9Gr7ledGo0gM_GVmH5U5Dvw8U/e2d9cdgxylldrr3/Horror.zip === 360851554
+Launcher->>0.0.1->>https://spacezone.su/check1 === 7858345
+Horror->>0.0.1->>https://download1478.mediafire.com/acdebl6u8pwgDAseXg5gKDPp2LYFubsa6Wt1mOQ4F0-HCq1XvAQFteVHwftX5iMiytyhrEUy0XNMf5VTsWSbGGt2k2MFnq4r1eChAuFzlwhGecueFLjC7vmt0Ofl0Zah6F0bH7rmVZSYPLjjH0NoOl9Gr7ledGo0gM_GVmH5U5Dvw8U/e2d9cdgxylldrr3/Horror.zip === 360851554
