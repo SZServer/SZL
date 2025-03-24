@@ -1,2 +1,2 @@
-Launcher-0.0.1-https://spacezone.su/check1
-Horror-0.0.1-https://spacezone.su/check2
+Launcher-0.0.1-https://spacezone.su/check1 === 7858345
+Horror-0.0.1-https://spacezone.su/check2 === 360851554
