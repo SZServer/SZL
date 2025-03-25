@@ -1,2 +1,2 @@
 Launcher->>0.0.1->>https://spacezone.su/check1 === 7858345
-Horror->>0.0.1->>https://file.spacezone.su/Horror.zip === 360851554
+Horror->>0.0.1->>http://file.spacezone.su === 360851554
