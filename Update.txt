@@ -1,3 +1,3 @@
-Launcher->>0.0.1->>http://file.spacezone.su/Launcher.exe === 7858345
+Launcher->>0.0.1->>http://file.spacezone.su/SpaceZoneLauncher.zip === 147968
 Horror->>0.0.1->>http://file.spacezone.su/Horror.zip === 360851554
 Minecraft->>http://file.spacezone.su/spacezone.zip
