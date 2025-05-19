@@ -1,3 +1,4 @@
-Launcher->>0.0.1->>http://launcher.spacezone.su/spacezonelauncher.zip === 106468057
-Horror->>0.0.1->>http://launcher.spacezone.su/Horror.zip === 360829767
+Launcher->>0.0.1->>http://launcher.spacezone.su/spacezonelauncher.zip === 111896463
+Horror->>0.0.1->>http://launcher.spacezone.su/Horror.zip === 385819588
+Bezdna->>0.0.1->>http://launcher.spacezone.su/Bezdna.zip === 90235707
 Minecraft->>http://launcher.spacezone.su/spacezone.zip
